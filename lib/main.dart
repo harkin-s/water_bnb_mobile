@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:water_bnb_mobile/Pages/SearchResults.dart';
 import './Pages/Login.dart';
 
 void main() => runApp(MyApp());
@@ -14,7 +15,8 @@ class MyApp extends StatelessWidget {
       ),
       initialRoute: '/',
       routes: {
-        '/' : (context) => LoginPage(title: 'Flutter Demo Home Page')
+        '/' : (context) => LoginPage(title: 'Flutter Demo Home Page'),
+        '/SearchResultsPage' : (context) => SearchResultsPage()
       },
     );
   }

@@ -26,7 +26,6 @@
 .pub-cache/
 .pub/
 /build/
-./android/app/google-services.json
 
 
 # Android related

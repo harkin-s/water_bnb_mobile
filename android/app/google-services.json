@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "590457900060",
+    "firebase_url": "https://fisean-223219.firebaseio.com",
+    "project_id": "fisean-223219",
+    "storage_bucket": "fisean-223219.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590457900060:android:0af5f48881844543",
+        "android_client_info": {
+          "package_name": "com.example.water_bnb_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590457900060-3s5758qenj8jciapfreq9ivll3orpjls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdrjvF3DBkkm38lbeZKTZ6_zYgQKpaMXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590457900060-3s5758qenj8jciapfreq9ivll3orpjls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
